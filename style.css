@@ -1,8 +1,12 @@
 .header {
-    background-color: rgb(236, 93, 41);
+
+    background-color: #800000; /* Maroon */
     color: white;
     padding: 40px 20px;
     text-align: center;
     position: relative;
 }
 
+body{
+    background-color: #F5F5DC; /* Light Beige */  
+}
