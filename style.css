@@ -1,21 +1,33 @@
-.header {
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #F5F5DC; /* Light Beige */
+    color: #333333;
+}
 
+.header {
     background-color: #800000; /* Maroon */
     color: white;
     padding: 40px 20px;
     text-align: center;
     position: relative;
     display: flex;
-    justify-content: space-between;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
 }
 
-#image{
+.header-content {
+    text-align: left;
+}
+
+#image {
     height: 200px;
     width: 200px;
     border-radius: 50%;
-   
+    border: 3px solid white; /* Optional: adds a border around the image */
 }
-
 body{
     background-color: #F5F5DC; /* Light Beige */  
 }
