@@ -5,6 +5,15 @@
     padding: 40px 20px;
     text-align: center;
     position: relative;
+    display: flex;
+    justify-content: space-between;
+}
+
+#image{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+   
 }
 
 body{
