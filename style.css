@@ -20,7 +20,9 @@ body {
 
 .header-content {
     text-align: left;
+    position: relative;
 }
+
 
 #image {
     height: 200px;
@@ -31,6 +33,6 @@ body {
 body{
     background-color: #F5F5DC; /* Light Beige */  
 }
-.main{
-    margin: 10px;
+.content{
+    margin: 15px;
 }
