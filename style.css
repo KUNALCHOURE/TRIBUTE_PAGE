@@ -13,13 +13,26 @@ body {
     text-align: center;
     position: relative;
     display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.upper{
+    text-align: center;
+    position: relative;
+    display: flex;
     align-items: center;
     justify-content: center;
     gap: 50px;
 }
-
+.qoute p{
+    font-style: italic;
+    font-size: 1.2em;
+}
 .header-content {
-    text-align: left;
+    text-align: center;
     position: relative;
 }
 
