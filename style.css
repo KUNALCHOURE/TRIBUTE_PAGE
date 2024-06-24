@@ -2,12 +2,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #F5F5DC; /* Light Beige */
+    background-color: #F5F5DC; 
     color: #333333;
 }
 
 .header {
-    background-color: #800000; /* Maroon */
+    background-color: #800000; 
     color: white;
     padding: 40px 20px;
     text-align: center;
@@ -41,10 +41,10 @@ body {
     height: 200px;
     width: 200px;
     border-radius: 50%;
-    border: 3px solid white; /* Optional: adds a border around the image */
+    border: 3px solid white; 
 }
 body{
-    background-color: #F5F5DC; /* Light Beige */  
+    background-color: #F5F5DC; 
 }
 .content{
     margin: 15px;
