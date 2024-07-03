@@ -14,4 +14,7 @@ This Tribute to Veer Savarkar page is a detailed and heartfelt homage to one of 
 ## Screenshot
 ![Screenshot 2024-07-03 203434](https://github.com/KUNALCHOURE/TRIBUTE_PAGE/assets/147177836/188cdea4-06b9-4ad8-aa27-4c695596dfca)
 
+![Screenshot 2024-07-03 203856](https://github.com/KUNALCHOURE/TRIBUTE_PAGE/assets/147177836/1f20fc66-0567-4b03-9d20-e3190f7e2405)
+
+
 
